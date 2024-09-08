@@ -8,4 +8,8 @@ def home():
     output = "This is {} server: {}".format(os.getenv("ENV"),os.getenv("VER"))
     return output
 
+@app.get("/hello")
+def hello():
+    return "hello"
+
 app.run()
