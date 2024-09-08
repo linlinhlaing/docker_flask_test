@@ -15,9 +15,9 @@ This project demonstrates how to set up a basic Flask web application using `pip
 mkdir flask_test
 flask_test -> pipenv install
 
-![image 1]("/Users/linlinhlaing/Downloads/download/AI/github codes/docker_flask_test/images/1.png")
+![image 1](https://github.com/linlinhlaing/docker_flask_test/blob/main/images/1.png)
 
-<img src="./images/1.png" alt="image 1" style="display: inline-block;">
+
 
 
 
